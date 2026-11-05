@@ -3,6 +3,7 @@
 <img src="https://imglink.cc/cdn/8jjkNcK858.png" width="280">
 
 <br>
+$\Small{textsf{\color{#F8E4B9}{YOUR} \color{#F5D5A5}{FIRST} \color{#F2C994}{HEADING}}$
 
 <table align="center" width="85%">
 <tr>
