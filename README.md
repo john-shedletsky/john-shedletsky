@@ -1,51 +1,24 @@
-<div align="center">
-
-<img src="https://imglink.cc/cdn/8jjkNcK858.png" width="280">
-
-<br>
-$\Small{textsf{\color{#F8E4B9}{YOUR} \color{#F5D5A5}{FIRST} \color{#F2C994}{HEADING}}$
-
-<table align="center" width="85%">
+<table width="100%">
 <tr>
-<td align="center">
+<td width="70%" valign="middle" align="left">
 
-$\textsf{\color{#F8E4B9}{YOUR} \color{#F5D5A5}{FIRST} \color{#F2C994}{HEADING}}$
+$\Huge{\color{#F8E4B9}{\textsf{\textbf{YOUR}}}} \Huge{\color{#F5D5A5}{\textsf{\textbf{HEADING}}}}$
+
+$\color{#F8E4B9}{\textsf{Write}}$ $\color{#F6DDB5}{\textsf{something}}$ $\color{#F4D4A8}{\textsf{here.}}$ $\color{#F2C994}{\textsf{Add}}$ $\color{#F0BC86}{\textsf{another}}$ $\color{#EEB27B}{\textsf{description,}}$ $\color{#EBAA73}{\textsf{some}}$ $\color{#E9A16B}{\textsf{information,}}$ $\color{#E79765}{\textsf{or}}$ $\color{#E58E60}{\textsf{whatever}}$ $\color{#E3865A}{\textsf{you'd}}$ $\color{#E17D55}{\textsf{like.}}$
 
 </td>
-</tr>
 
-<tr>
-<td align="center">
+<td width="30%" valign="middle" align="right">
 
-$\textsf{\color{#F8E4B9}{Write} \color{#F6DDB5}{something} \color{#F4D4A8}{here.} \color{#F2C994}{This} \color{#F0BC86}{is} \color{#EEB27B}{where} \color{#EBAA73}{your} \color{#E9A16B}{introduction} \color{#E79765}{or} \color{#E58E60}{description} \color{#E3865A}{goes.} \color{#E17D55}{Add} \color{#DF754F}{whatever} \color{#DD6D4A}{information} \color{#DB6545}{you} \color{#D95D40}{want!}}$
+<img src="https://imglink.cc/cdn/cZnQvoG2VI.png" width="190">
 
 </td>
+
 </tr>
 </table>
 
-</div>
-
-<br>
-
-<p align="left">
-
-YOUR ORIGINAL TEXT GOES HERE — UNCHANGED.
-
-</p>
-
-<br>
-
-<img src="https://imglink.cc/cdn/cZnQvoG2VI.png" align="right" width="230">
-
 <details>
-<summary>
-
-$\Huge{\textsf{\textbf{\color{#F8E4B9}{YOUR} \color{#F5D5A5}{SECOND} \color{#F2C994}{HEADING}}}}$
-
-</summary>
-
-$\textsf{\color{#F8E4B9}{Write} \color{#F6DDB5}{something} \color{#F4D4A8}{here.} \color{#F2C994}{Add} \color{#F0BC86}{another} \color{#EEB27B}{description,} \color{#EBAA73}{some} \color{#E9A16B}{information,} \color{#E79765}{or} \color{#E58E60}{whatever} \color{#E3865A}{you'd} \color{#E17D55}{like.}}$
-
+<summary>  $${\color{#4B4C3B}Note}$$</summary>
+$${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ ponytown's\ "character"!}$$
+  
 </details>
-
-<br clear="right">
