@@ -1,24 +1,70 @@
+<div align="center">
+
+<img src="https://imglink.cc/cdn/8jjkNcK858.png" width="230">
+
+<br>
+
+$$\tiny{\color{#F2C994}\ 'Cause\space it}\ \color{#F0BC86}{was\space always}\ \color{#E9A16B}{safe\space with\space you.}$$
+
+<table align="center" width="85%">
+<tr>
+<td align="center">
+
+$\textsf{\color{#F2C994}{ 𝒥ohᥒ 𝓢hᥱძᥣᥱtskᥡ !}}$
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+$\small{\color{#F8E4B9}\ 16 \space 。}\color{#F2C994}{ \space  \space ENFP \space \space }\color{#F0BC86}{⎯ \space \space \space }\color{#EBAA73}{System \space \space 。 \space  \space }\color{#E17D55}{He/Him}$
+
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+<details>
+<summary> $\small{\color{#F8E4B9}\ Pony\space }\color{#F2C994}{Town\space }\color{#F0BC86}{Nominations}$
+
+</summary>
+$\tiny{\color{#F2C994}{@title-town @character-town @pt-nominations}}$
+$\tiny{\color{#F2C994}{@pt-walk-of-fame @pt-of-awesomeness}}$
+$\tiny{\color{#F2C994}{@pt-hall-of-media @pt-heavyfictkin @pt-everypony}}$
+$\tiny{\color{#F2C994}{@ponytown-nominations @ponychievements @kaotown}}$
+$\tiny{\color{#F2C994}{(sharing!) @pt-loveforfictional @ponytownyumeshippers}}$
+  
+</details>
+
+</div>
+
+<br>
+
 <table width="100%">
 <tr>
-<td width="70%" valign="middle" align="left">
+<td width="55%" valign="middle" align="center">
 
-$\Huge{\color{#F8E4B9}{\textsf{\textbf{YOUR}}}} \Huge{\color{#F5D5A5}{\textsf{\textbf{HEADING}}}}$
 
-$\color{#F8E4B9}{\textsf{Write}}$ $\color{#F6DDB5}{\textsf{something}}$ $\color{#F4D4A8}{\textsf{here.}}$ $\color{#F2C994}{\textsf{Add}}$ $\color{#F0BC86}{\textsf{another}}$ $\color{#EEB27B}{\textsf{description,}}$ $\color{#EBAA73}{\textsf{some}}$ $\color{#E9A16B}{\textsf{information,}}$ $\color{#E79765}{\textsf{or}}$ $\color{#E58E60}{\textsf{whatever}}$ $\color{#E3865A}{\textsf{you'd}}$ $\color{#E17D55}{\textsf{like.}}$
+
+𓏲 $${\color{#F3B47F}{Strawpage \space \space ⦂\space \space \space \space \space ۫}}$$ [♡](https://github.com/teufel)
+
+𓏲 $${\color{#F3B47F}{Fluffles\space \space \space \space \space \space ⦂\space \space \space \space \space ۫}}$$ [♡](https://github.com/teufel) 
+
+𓏲 $${\color{#F3B47F}{PT\ Info\space \space \space \space \space ⦂\space \space \space \space \space ۫}}$$ [♡](https://github.com/teufel) 
 
 </td>
 
-<td width="30%" valign="middle" align="right">
+<td width="45%" valign="middle" align="center">
 
-<img src="https://imglink.cc/cdn/cZnQvoG2VI.png" width="190">
+<img src="https://imglink.cc/cdn/cZnQvoG2VI.png" width="80%">
 
 </td>
 
 </tr>
 </table>
-
-<details>
-<summary>  $${\color{#4B4C3B}Note}$$</summary>
-$${\color{#87896A}Example\ for\ this\ category:\ @username\ is\ ponytown's\ "character"!}$$
-  
-</details>
