@@ -10,7 +10,7 @@ $$\tiny{\color{#F2C994}\ 'Cause\space it}\ \color{#F0BC86}{was\space always}\ \c
 <tr>
 <td align="center">
 
-$\small{\color{#F8E4B9}{W2I\space \space}\color{#F2C994}{\space C+H \space \space}\color{#F0BC86}{freely}}$
+$\small{\color{#F8E4B9}{W2I\space \space}\color{#F2C994}{\space C+H \space with\space me\space}\color{#F0BC86}{freely!}}$
 
 </td>
 </tr>
@@ -21,14 +21,14 @@ $\small{\color{#F8E4B9}{W2I\space \space}\color{#F2C994}{\space C+H \space \spac
 $\small{\color{#F8E4B9}{16\space 。}\color{#F2C994}{\space  \space ENFP \space \space }\color{#F0BC86}{。\space \space \space }\color{#EBAA73}{System \space \space 。 \space  \space }\color{#E17D55}{He/Him}}$
 
 $\small{\color{#F2C994}{Hello,\space I\space go\space by\space Shedletsky\space}\color{#F0BC86}{or\space Telamon!\space}}$
-$\small{\color{#F2C994}{Seen\space alone\space at\space Roblox\space area\space or}\color{#F0BC86}{\space with\space friends ❤️}}$
+$\small{\color{#F2C994}{Seen\space alone\space at\space Roblox\space area\space or}\color{#F0BC86}{\space with\space friends}\color{#FFFFFF}{❤️}}$
 
 
 </td>
 </tr>
 </table>
 
-$\small{\color{#F8E4B9}{Busy\space with\space school\space so}\color{#F2C994}{\space contact\space me\space through\space Discord\space}}$ 
+$\small{\color{#F8E4B9}{Busy\space with\space school\space so}\color{#F2C994}{\space contact\space me\space through\space Discord!}}$ 
 
 </details>
 
@@ -37,13 +37,15 @@ $\small{\color{#F8E4B9}{Busy\space with\space school\space so}\color{#F2C994}{\s
 <td width="55%" valign="middle" align="center">
 
 
-𓏲 $$\small{\color{#F3B47F}{Pronouns \space \space \space ⦂\space \space \space \space \space ۫}}$$ [♡](https://pronouns.cc/@john-shedletsky)
+ ׁ𓏲 $$\small{\color{#F3B47F}{Pronouns \space \space \space ⦂\space \space \space \space \space ۫}}$$ [♡](https://pronouns.cc/@john-shedletsky)
 
-𓏲 $$\small{\color{#F3B47F}{Strawpage \space \space ⦂\space \space \space \space \space ۫}}$$ [♡](https://theheights.straw.page)
+ ׁ𓏲 $$\small{\color{#F3B47F}{Strawpage \space \space ⦂\space \space \space \space \space ۫}}$$ [♡](https://theheights.straw.page)
 
-𓏲 $$\small{\color{#F3B47F}{Fluffles\space \space \space \space \space \space ⦂\space \space \space \space \space ۫}}$$ [♡](https://fluffle.cc/) 
+ ׁ𓏲 $$\small{\color{#F3B47F}{Fluffles\space \space \space \space \space \space ⦂\space \space \space \space \space ۫}}$$ [♡](https://fluffle.cc/) 
 
-𓏲 $$\small{\color{#F3B47F}{PT\ Info\space \space \space \space \space ⦂\space \space \space \space \space ۫}}$$ [♡](https://fluffle.cc/) 
+ ׁ𓏲 $$\small{\color{#F3B47F}{PT\ Info\space \space \space \space \space ⦂\space \space \space \space \space ۫}}$$ [♡](https://fluffle.cc/) 
+
+ ׁ𓏲 $$\small{\color{#F3B47F}{Atabook\space \space \space \space \space ⦂\space \space \space \space \space ۫}}$$ [♡](https://john-shedletsky.atabook.org) 
 
 </td>
 
